@@ -1,0 +1,22 @@
+{
+  "name": "hapi-leads",
+  "version": "0.0.1",
+  "description": "node.js hapi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/hapi-leads.git"
+  },
+  "keywords": [
+    "node.js",
+    "hapi"
+  ],
+  "author": "Doron Segal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/doron2402/hapi-leads/issues"
+  }
+}
