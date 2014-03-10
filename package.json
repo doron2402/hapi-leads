@@ -18,5 +18,11 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/doron2402/hapi-leads/issues"
+  },
+  "dependencies": {
+    "hapi": "~2.6.0",
+  },
+  "devDependencies": {
+    "grunt": "~0.4.3"
   }
 }
